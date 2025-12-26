@@ -13,7 +13,7 @@
 		"ADMIN_PASSWORD": "727828mkW!",
 		"SITE_TITLE": "ooyyh的小网盘",
 		"SITE_ANNOUNCEMENT": "欢迎使用 CList 存储聚合服务！如有问题请联系管理员。",
-		"CHUNK_SIZE_MB": "20"
+		"CHUNK_SIZE_MB": "10"
 	},
 	"observability": {
 		"enabled": true
