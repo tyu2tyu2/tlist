@@ -21,8 +21,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "clist",
-			"database_id": ""
+			"database_name": "tlist",
+			"database_id": "5f3283f2-f204-4cd2-9eed-aeba4db79082"
 		}
 	],
 	"migrations_dir": "./migrations"
