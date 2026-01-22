@@ -21,7 +21,7 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "clist",
+			"database_name": "tlist",
 			"database_id": "896458be-988c-42bc-b1f4-c89c88c79143"
 		}
 	],
