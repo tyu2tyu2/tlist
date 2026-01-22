@@ -9,8 +9,8 @@
 	"main": "./workers/app.ts",
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
-		"ADMIN_USERNAME": "admin",
-		"ADMIN_PASSWORD": "changeme",
+		"ADMIN_USERNAME": "tyu",
+		"ADMIN_PASSWORD": "Tyu6587291.",
 		"SITE_TITLE": "",
 		"SITE_ANNOUNCEMENT": "",
 		"CHUNK_SIZE_MB": "10"
