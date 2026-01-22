@@ -9,10 +9,10 @@
 	"main": "./workers/app.ts",
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
-		"ADMIN_USERNAME": "tyu",
-		"ADMIN_PASSWORD": "Tyu6587291.",
-		"SITE_TITLE": "",
-		"SITE_ANNOUNCEMENT": "",
+		"ADMIN_USERNAME": "ttt",
+		"ADMIN_PASSWORD": "tttttt",
+		"SITE_TITLE": "ttt",
+		"SITE_ANNOUNCEMENT": "ttt",
 		"CHUNK_SIZE_MB": "10"
 	},
 	"observability": {
@@ -21,8 +21,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "list",
-			"database_id": "0064f7a9-8625-4132-8dc5-764a3bcc716d"
+			"database_name": "clist",
+			"database_id": ""
 		}
 	],
 	"migrations_dir": "./migrations"
